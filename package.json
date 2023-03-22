@@ -144,7 +144,7 @@
     "@iarna/toml": "2.2.5",
     "@renovatebot/osv-offline": "1.0.4",
     "@renovatebot/pep440": "2.1.5",
-    "@renovatebot/ruby-semver": "1.1.6",
+    "@renovatebot/ruby-semver": "1.1.8",
     "@sindresorhus/is": "4.6.0",
     "@types/tmp": "0.2.3",
     "@yarnpkg/core": "3.2.4",
