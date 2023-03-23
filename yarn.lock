@@ -5187,15 +5187,15 @@ globrex@^0.1.2:
   resolved "https://registry.yarnpkg.com/globrex/-/globrex-0.1.2.tgz#dd5d9ec826232730cd6793a5e33a9302985e6098"
   integrity sha512-uHJgbwAMwNFf5mLst7IWLNg14x1CkeqglJb/K3doi4dw6q2IvAAmM/Y81kevy83wP+Sst+nutFTYOGg3d1lsxg==
 
-good-enough-parser@1.1.19:
-  version "1.1.19"
-  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.19.tgz#928bf8bad59ef63d5095d355a20ce625f4cec04a"
-  integrity sha512-O1sdiXjZocP8gFYi5yMJ1kNGTJi9aV563Pjvo6UwOln3+IE+l6bshHqlKYdEM63Pof1KIqPCPKhNzkDPxNoFpw==
+good-enough-parser@1.1.22:
+  version "1.1.22"
+  resolved "https://registry.yarnpkg.com/good-enough-parser/-/good-enough-parser-1.1.22.tgz#1fcab50b385ead49cb89a847868631d588bc5716"
+  integrity sha512-fI4qWIeyqjleGazMcXnqgtvG8qBJGUoj5CtraqaUpZmk94ztMab6irx3Yz+EsJKKgIrwkSBM69WHLngfhAe7hg==
   dependencies:
     "@thi.ng/zipper" "1.0.3"
     "@types/moo" "0.5.5"
     klona "2.0.5"
-    moo "0.5.1"
+    moo "0.5.2"
 
 got@11.8.5, got@^11.7.0:
   version "11.8.5"
@@ -7090,6 +7090,11 @@ moo@0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/moo/-/moo-0.5.1.tgz#7aae7f384b9b09f620b6abf6f74ebbcd1b65dbc4"
   integrity sha512-I1mnb5xn4fO80BH9BLcF0yLypy2UKl+Cb01Fu0hJRkJjlCRtxZMWkTdAtDd5ZqCOxtCkhmRwyI57vWT+1iZ67w==
+
+moo@0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/moo/-/moo-0.5.2.tgz#f9fe82473bc7c184b0d32e2215d3f6e67278733c"
+  integrity sha512-iSAJLHYKnX41mKcJKjqvnAN9sf0LMDTXDEvFv+ffuRR9a1MIuXLjMNL6EsnDHSkKLTWNqQQ5uo61P4EbU4NU+Q==
 
 mri@^1.1.5:
   version "1.2.0"
